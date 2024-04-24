@@ -1,0 +1,1 @@
+# Blue VM lab
