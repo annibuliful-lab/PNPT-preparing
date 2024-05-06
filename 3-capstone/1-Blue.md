@@ -1,5 +1,8 @@
 # Blue VM lab
 ## nmap enumeration result
+
+`nmap -Pn -sV -sC -O 192.168.1.110`
+
 ```
 Nmap scan report for 192.168.1.110
 Host is up (0.00021s latency).
