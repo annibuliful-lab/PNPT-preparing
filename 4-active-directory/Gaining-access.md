@@ -1,0 +1,1 @@
+# Gaining access to machine under active directory network
